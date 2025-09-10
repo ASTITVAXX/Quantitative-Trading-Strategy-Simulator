@@ -31,5 +31,5 @@ The included demo uses a **Simple Moving Average (SMA) Crossover**:
    ```bash
    pip install yfinance matplotlib pandas
 
-└── output.png # Example visualization (sample chart)
+
 
